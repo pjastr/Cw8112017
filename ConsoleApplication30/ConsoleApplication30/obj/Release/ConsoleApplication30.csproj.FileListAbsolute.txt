@@ -1,0 +1,10 @@
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\bin\Release\ConsoleApplication30.exe.config
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\bin\Release\ConsoleApplication30.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\bin\Release\ConsoleApplication30.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\obj\Release\ConsoleApplication30.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\obj\Release\ConsoleApplication30.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\bin\Release\ConsoleApplication30.exe.manifest
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\bin\Release\ConsoleApplication30.application
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\obj\Release\ConsoleApplication30.csprojResolveAssemblyReference.cache
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\obj\Release\ConsoleApplication30.exe.manifest
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication30\ConsoleApplication30\obj\Release\ConsoleApplication30.application
